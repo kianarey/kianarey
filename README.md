@@ -3,4 +3,3 @@
 - ✨  Embedded Software Engineer @ MSE, Menlo Park CA.
 - 👀  Interests: embedded systems, artificial intelligence, and machine learning
 - 🌱  Current Projects: self-driving car prototype, tiling robot, pronunciation tool, computer vision
-- 📫  You can reach me via email: kiana.rey@mainspringenergy.com
